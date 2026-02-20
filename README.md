@@ -21,7 +21,6 @@
 
 # Estructura
   -Declarar 20 tipos de variables:
-    
     -int 
     
     -double
