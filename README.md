@@ -20,7 +20,7 @@
  -Mariana Parra Londoño
 
 # Estructura
-  -Declarar 20 tipos de variables
+  -Declarar 20 tipos de variables:
     
     -Int 
     
