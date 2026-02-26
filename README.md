@@ -49,5 +49,5 @@ Se deben utilizar los siguientes tipos de datos primitivos:
 
 ## 📎 Link de la Diapositiva
 
-[Diapositiva en Canva](https://www.canva.com/design/DAHB3o-g4ZI/aYyshn7p018LcwCJd3AqdQ/view?utm_content=DAHB3o-g4ZI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8bb4ba26b7)
+[Diapositiva en Canva](https://www.canva.com/design/DAHCdwlZFF8/kx7MUoIuPfAUyUaMzF6NXg/edit?utm_content=DAHCdwlZFF8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
     
