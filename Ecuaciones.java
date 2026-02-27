@@ -6,6 +6,9 @@ public class Ecuaciones {
 
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("Escoja cual ecuacion desea hacer (1 o 2): ");
+        int opcion = sc.nextInt();
+        
         System.out.println("Escoja los valores para X y Z:");
         System.out.print("X: ");
         double x = sc.nextDouble();
@@ -13,14 +16,11 @@ public class Ecuaciones {
         System.out.print("Z: ");
         double z = sc.nextDouble();
 
-        System.out.println("Escoja cuál ecuación desea hacer (1 o 2): ");
-        int opcion = sc.nextInt();
-
         double y = 0;
 
         if (opcion == 1) {
 
-            // ECUACIÓN 1 (la larga descompuesta)
+            // ECUACIÓN 1 (larga descompuesta)
             double a = x*x + 3*z + 2;
             double b = 1 + 2*z;
             double c = 1 / b;
@@ -52,6 +52,8 @@ public class Ecuaciones {
         } else {
 
             System.out.println("Opción no válida.");
+            sc.close();
+            return;
         }
 
         System.out.println("El resultado es: " + y);
